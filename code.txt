@@ -1,6 +1,3 @@
 hello world
-<<<<<<< HEAD
 xin chao Nguyen Thanh Nhon
-=======
 xin chao Nguyen Van Nhat Nam
->>>>>>> nam-sv2
